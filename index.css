@@ -1,0 +1,35 @@
+html,body{
+        background-color: rgb(0, 0, 0);
+        height:100%;width:100%;
+        padding: 0;
+        margin: 0;
+        border: 0;
+        color: #ffffff;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+}
+.box{
+    width: 20em;
+    height: 35em;
+    background: #14b76d;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 20px;
+    border: 2px solid #ffffff29;
+    padding: 40px;
+}
+.cor{
+color: #22bc7e;
+ }
+
+.textor{
+        text-align:center;
+        padding: 5px;
+        margin: auto;
+        color: rgb(255, 255, 255);
+}
+
+.principal{
+    background-color: rgb(0, 0, 0);
+}
